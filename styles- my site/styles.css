@@ -43,7 +43,7 @@ hr {
     position: absolute;
     width: 4%;
     animation: fly infinite;
-    animation-duration: 3s;
+    animation-duration: 1s;
     left: 95%;
     top: 50px;
 
